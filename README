@@ -1,0 +1,5 @@
+bfevolve is a project aimed at creating a Brainf*ck program that achieves a particular objective (currently, create and print the Fibonacci series) using Genetic algorithms in MATLAB.
+
+I'm an amateur in genetic algorithms, and am trying to learn more through this project too. 
+
+I call this genetic algorithm and not genetic programming since it doesn't really use (or need, as far as I see) any genetic programming concept. It's just basic GA with some sanity checking to keep the program a valid Brainf*ck program (which honestly isn't that difficult).
